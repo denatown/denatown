@@ -1,10 +1,10 @@
 Hi 👋 My name is Dena Townsend
 ==============================
 
-Full Stack Developer
+Analyst / Developer
 --------------------
 
-After immersing myself in the SQL world, I'm branching out as a full stack developer building things.
+After immersing myself in the SQL world, I'm branching out building things.
 
 *   🌍  I'm based in Calgary
 *   🧠  I'm learning React
