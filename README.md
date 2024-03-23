@@ -7,7 +7,7 @@ Analyst / Developer
 After immersing myself in the SQL world, I'm branching out building things.
 
 *   🌍  I'm based in Calgary
-*   🧠  I'm learning Python
+*   🧠  I'm learning Python (and the data libraries pandas, numpy, matplotlib)
 *   🤝  I'm open to collaborating on projects                     
 
 ### Skills 
